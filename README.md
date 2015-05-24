@@ -6,9 +6,7 @@
 
 [Portals with composition (jsbin)](http://jsbin.com/gadotu/1/edit?js,output) - React, Morearty, immutable-js
 
-[replace cursors with functions (omniscient)](goo.gl/KNsHph) - Original by [Gozala](https://github.com/omniscientjs/omniscient/issues/89). I just added `subeditIn` function. (React, omniscient)
-
-[...breaking Gozala's cursor functions](goo.gl/7rqok2)
+[replace cursors with functions (omniscient)](goo.gl/KNsHph) - Original by [Gozala](https://github.com/omniscientjs/omniscient/issues/89). I just added `subeditIn` function. (React, omniscient) ...[breaking Gozala's cursor functions](goo.gl/7rqok2)
 
 ## Functional Programing
 
