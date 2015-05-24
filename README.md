@@ -8,6 +8,8 @@
 
 [replace cursors with functions (omniscient)](goo.gl/KNsHph) - Original by [Gozala](https://github.com/omniscientjs/omniscient/issues/89). I just added `subeditIn` function. (React, omniscient)
 
+[...breaking Gozala's cursor functions](goo.gl/7rqok2)
+
 ## Functional Programing
 
 [curried addition done two ways (jsbin)](http://jsbin.com/dohafi/2/edit) - `add(1)(2)(3)()`
