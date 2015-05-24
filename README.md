@@ -10,4 +10,4 @@
 
 ## Functional Programing
 
-[curried addition done two ways](http://jsbin.com/dohafi/2/edit) - `add(1)(2)(3)()`
+[curried addition done two ways (jsbin)](http://jsbin.com/dohafi/2/edit) - `add(1)(2)(3)()`
