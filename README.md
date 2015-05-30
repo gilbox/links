@@ -1,5 +1,7 @@
 # links
 
+Code snippets I've created while hanging out at the Internet.
+
 ## React
 
 - [immutable playground (jsbin)](http://jsbin.com/tahire/1/edit?js,console) - Morearty, immutable-js
