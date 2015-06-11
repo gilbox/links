@@ -18,6 +18,13 @@ Code snippets I've created while hanging out at the Internet.
 
 - [partially implemented semi-functional cursors](http://goo.gl/OsBMYy) - Bastardizes ^. Needs some way to update edit function of existing cursors to work properly. (In addition to memoizing cursors?)
 
+## Functional React
+
+Demos inspired by (and forked from) the previous section. Exploring different approaches to functional react.
+
+- [function react simple](http://jsbin.com/wotelo/2/edit?js,output)
+- [function react with streams](http://jsbin.com/wotelo/2/edit?html,js,output)
+
 ## Functional Programing
 
 - [curried addition done two ways (jsbin)](http://jsbin.com/dohafi/2/edit) - `add(1)(2)(3)()`
